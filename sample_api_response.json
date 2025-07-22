@@ -1,0 +1,10 @@
+{
+  "motd": {},
+  "success": true,
+  "symbols": {
+    "USD": {
+      "description": "United States Dollar",
+      "code": "USD"
+    },
+  }
+}
